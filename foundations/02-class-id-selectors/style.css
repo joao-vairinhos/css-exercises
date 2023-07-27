@@ -10,3 +10,9 @@ p {
 .class {
     font-size: 36px;
 }
+
+#secondID {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
